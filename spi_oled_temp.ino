@@ -1,5 +1,5 @@
 //This code belongs to Andrew Stott and is based on code
-//provided by Adafruit industried under an open source license.
+//provided by Adafruit Industries under an open source license.
 //Likewise this code is open sorce and can be used and modified.
 //I simply ask that you let me know so that we can learn together.
 
